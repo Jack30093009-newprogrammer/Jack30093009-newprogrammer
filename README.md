@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Jack30093009-newprogrammer im new in programming
 - 👀 I’m interested in C# and Unity (C++)
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Im in sergeevjack3009@gmail.com
-- 😄 Pronouns: what
-- ⚡ Fun fact: &
+- 💞️ I’m looking to collaborate on NKR
+- 📫 How to reach me? Im in nikusa3009@gmail.com
+- 😄 Pronouns: he
+- ⚡ Fun fact: idk
 
 
 
